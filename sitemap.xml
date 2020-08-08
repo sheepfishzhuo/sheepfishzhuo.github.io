@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sheepfishzhuo.github.io/2020/08/08/sort-algorithms/</loc>
+    
+    <lastmod>2020-08-08T12:49:24.769Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sheepfishzhuo.github.io/contact/index.html</loc>
     
     <lastmod>2020-08-08T08:49:06.666Z</lastmod>
@@ -30,14 +37,7 @@
   </url>
   
   <url>
-    <loc>https://sheepfishzhuo.github.io/2020/08/08/article-title/</loc>
-    
-    <lastmod>2020-08-08T07:57:34.013Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sheepfishzhuo.github.io/2020/02/16/sort-algorithms/</loc>
+    <loc>https://sheepfishzhuo.github.io/categories/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     
@@ -45,13 +45,6 @@
   
   <url>
     <loc>https://sheepfishzhuo.github.io/archives/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:43.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sheepfishzhuo.github.io/categories/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     
